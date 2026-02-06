@@ -44,6 +44,7 @@ Figuring out what hardware you need (or what to do with what you have).
 - [What Can You Run on 12GB VRAM](https://insiderllm.com/guides/what-can-you-run-12gb-vram/) - RTX 3060 12GB, 4070
 - [What Can You Run on 16GB VRAM](https://insiderllm.com/guides/what-can-you-run-16gb-vram/) - RTX 4060 Ti 16GB, 4080
 - [What Can You Run on 24GB VRAM](https://insiderllm.com/guides/what-can-you-run-24gb-vram/) - RTX 3090, 4090
+- [Mixtral 8x7B & 8x22B VRAM Requirements](https://insiderllm.com/guides/mixtral-8x7b-8x22b-vram-requirements/) - MoE memory mapping
 - [GPU Benchmarks for LLM Inference](https://github.com/XiongjieDai/GPU-Benchmarks-on-LLM-Inference) - Community benchmark database
 
 ### Buying Guides
@@ -61,6 +62,7 @@ Figuring out what hardware you need (or what to do with what you have).
 - [AMD vs NVIDIA for Local AI](https://insiderllm.com/guides/amd-vs-nvidia-local-ai-rocm/) - ROCm reality check
 - [Laptop vs Desktop for Local AI](https://insiderllm.com/guides/laptop-vs-desktop-local-ai/) - Portability tradeoffs
 - [CPU-Only LLMs](https://insiderllm.com/guides/cpu-only-llms-what-actually-works/) - Running models without a GPU
+- [Best Local LLMs for Mac 2026](https://insiderllm.com/guides/best-local-llms-mac-2026/) - Top picks for M-series
 
 ## Inference Engines
 
@@ -162,6 +164,8 @@ Interfaces and tools for running image generation locally.
 - [Stable Diffusion Locally](https://insiderllm.com/guides/stable-diffusion-locally-getting-started/) - Complete getting started guide
 - [Flux Locally](https://insiderllm.com/guides/flux-locally-complete-guide/) - Running Flux on consumer hardware
 - [ComfyUI vs A1111 vs Fooocus](https://insiderllm.com/guides/comfyui-vs-automatic1111-vs-fooocus/) - Which UI to choose
+- [AI Art Styles & Workflows Guide](https://insiderllm.com/guides/ai-art-styles-workflows-guide/) - Creative techniques for Stable Diffusion and Flux
+- [Local AI Video Generation](https://insiderllm.com/guides/local-ai-video-generation/) - What actually works on consumer hardware
 
 ### Extensions & Tools
 
@@ -189,6 +193,9 @@ Running autonomous AI agents locally.
 - [OpenClaw Security Guide](https://insiderllm.com/guides/openclaw-security-guide/) - Hardening autonomous agents
 - [Best Models for OpenClaw](https://insiderllm.com/guides/best-local-models-openclaw/) - Which Ollama models work for agents
 - [OpenClaw vs Commercial Agents](https://insiderllm.com/guides/openclaw-vs-commercial-ai-agents/) - Local vs Lindy, Rabbit, etc.
+- [OpenClaw ClawHub Security Alert](https://insiderllm.com/guides/openclaw-clawhub-security-alert/) - 341 malicious skills found in marketplace
+- [OpenClaw Plugins & Skills Guide](https://insiderllm.com/guides/openclaw-plugins-skills-guide/) - Navigating the skills ecosystem safely
+- [OpenClaw Token Optimization](https://insiderllm.com/guides/openclaw-token-optimization/) - Reduce API costs for agent workflows
 
 ## Advanced Topics
 
@@ -222,6 +229,14 @@ Going deeper into local AI.
 - [Tabby](https://github.com/TabbyML/tabby) - Self-hosted code completion
 - [Aider](https://github.com/paul-gauthier/aider) - AI pair programming in terminal
 - [Codeium](https://codeium.com/) - Free AI code completion (cloud + local options)
+
+### Cost & Strategy
+
+- [Token Audit Guide](https://insiderllm.com/guides/token-audit-guide/) - Track what AI actually costs
+- [Tiered AI Model Strategy](https://insiderllm.com/guides/tiered-ai-model-strategy/) - When to use local vs cloud
+- [Local LLMs vs ChatGPT](https://insiderllm.com/guides/local-llms-vs-chatgpt-honest-comparison/) - Honest comparison
+- [Local LLMs vs Claude](https://insiderllm.com/guides/local-llms-vs-claude/) - Honest comparison
+- [Cost to Run LLMs Locally](https://insiderllm.com/guides/cost-to-run-llms-locally/) - Real electricity and hardware costs
 
 ### Troubleshooting
 
