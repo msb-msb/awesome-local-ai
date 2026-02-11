@@ -53,6 +53,8 @@ Figuring out what hardware you need (or what to do with what you have).
 - [Used RTX 3090 Buying Guide](https://insiderllm.com/guides/used-rtx-3090-buying-guide/) - The value king for 24GB VRAM
 - [Used GPU Buying Guide](https://insiderllm.com/guides/used-gpu-buying-guide-local-ai/) - eBay, Marketplace, what to look for
 - [Budget AI PC Under $500](https://insiderllm.com/guides/budget-local-ai-pc-500/) - Used Optiplex + GPU strategy
+- [RTX 3060 vs 3060 Ti vs 3070 for Local AI](https://insiderllm.com/guides/rtx-3060-vs-3060ti-vs-3070-local-ai/) - 12GB wins for LLMs despite being the cheapest
+- [Multi-GPU Setups: Worth It?](https://insiderllm.com/guides/multi-gpu-worth-it/) - When dual GPUs beat one bigger card
 - [Tom's Hardware GPU Hierarchy](https://www.tomshardware.com/reviews/gpu-hierarchy,4388.html) - General GPU rankings
 
 ### Platform Comparisons
@@ -102,6 +104,8 @@ GUIs and web interfaces for interacting with local models.
 - [Open WebUI Setup Guide](https://insiderllm.com/guides/open-webui-setup-guide/) - Installation and configuration
 - [Text Generation WebUI Guide](https://insiderllm.com/guides/text-generation-webui-oobabooga-guide/) - Power user setup
 - [LM Studio Tips & Tricks](https://insiderllm.com/guides/lm-studio-tips-and-tricks/) - Hidden features
+- [Managing Multiple Models in Ollama](https://insiderllm.com/guides/managing-multiple-models-ollama/) - Storage, switching, cleanup, and running multiple models
+- [Running AI Offline](https://insiderllm.com/guides/running-ai-offline-complete-guide/) - Air-gapped setups for field work and restricted environments
 
 ## Models
 
@@ -129,6 +133,10 @@ GUIs and web interfaces for interacting with local models.
 - [Qwen Models Guide](https://insiderllm.com/guides/qwen-models-guide/) - Qwen 3, Qwen 2.5 Coder, Qwen-VL
 - [DeepSeek Models Guide](https://insiderllm.com/guides/deepseek-models-guide/) - R1, V3, Coder
 - [Mistral & Mixtral Guide](https://insiderllm.com/guides/mistral-mixtral-guide/) - 7B, Nemo, Mixtral MoE
+- [Gemma Models Guide](https://insiderllm.com/guides/gemma-models-guide/) - Google's Gemma 3, Gemma 2, CodeGemma, PaliGemma
+- [Phi Models Guide](https://insiderllm.com/guides/phi-models-guide/) - Microsoft's Phi-4, Phi-3.5, Phi-3 — small models that punch above their weight
+- [Vision Models Locally](https://insiderllm.com/guides/vision-models-locally/) - Qwen2.5-VL, Gemma 3, Llama 3.2 Vision, Moondream compared
+- [Best Uncensored Local LLMs](https://insiderllm.com/guides/best-uncensored-local-llms/) - Dolphin, abliterated models, and uncensored fine-tunes
 - [Best Models Under 3B](https://insiderllm.com/guides/best-models-under-3b-parameters/) - For edge devices
 
 #### By Use Case
@@ -137,6 +145,9 @@ GUIs and web interfaces for interacting with local models.
 - [Best Models for Math & Reasoning](https://insiderllm.com/guides/best-local-llms-math-reasoning/) - DeepSeek R1, Qwen thinking
 - [Best Models for Writing](https://insiderllm.com/guides/best-local-llms-writing-creative-work/) - Creative and content work
 - [Best Models for Chat](https://insiderllm.com/guides/best-local-llms-chat-conversation/) - Conversational assistants
+- [Best Models for Summarization](https://insiderllm.com/guides/best-local-llms-summarization/) - Chunking strategies, model picks by use case
+- [Best Models for Translation](https://insiderllm.com/guides/best-local-llms-translation/) - NLLB, Qwen, Opus-MT by language pair
+- [Best Models for Data Analysis](https://insiderllm.com/guides/best-local-llms-data-analysis/) - CSV, SQL, pandas with local LLMs
 
 ### Image Generation Models
 
@@ -204,6 +215,7 @@ Going deeper into local AI.
 ### RAG & Document Search
 
 - [Local RAG Guide](https://insiderllm.com/guides/local-rag-search-documents-private-ai/) - Search your documents with private AI
+- [Embedding Models for RAG](https://insiderllm.com/guides/embedding-models-rag/) - nomic-embed-text, Qwen3-Embedding, bge-m3 compared
 - [Chroma](https://github.com/chroma-core/chroma) - Open-source embedding database
 - [Qdrant](https://github.com/qdrant/qdrant) - Vector similarity search engine
 - [FAISS](https://github.com/facebookresearch/faiss) - Facebook's similarity search library
@@ -237,6 +249,12 @@ Going deeper into local AI.
 - [Local LLMs vs ChatGPT](https://insiderllm.com/guides/local-llms-vs-chatgpt-honest-comparison/) - Honest comparison
 - [Local LLMs vs Claude](https://insiderllm.com/guides/local-llms-vs-claude/) - Honest comparison
 - [Cost to Run LLMs Locally](https://insiderllm.com/guides/cost-to-run-llms-locally/) - Real electricity and hardware costs
+- [Free Local AI vs Paid Cloud APIs](https://insiderllm.com/guides/local-ai-vs-cloud-api-cost/) - Break-even math with current 2026 API pricing
+
+### Privacy & Security
+
+- [Local AI Privacy Guide](https://insiderllm.com/guides/local-ai-privacy-guide/) - What's private, what leaks, and how to lock it down
+- [Structured Output from Local LLMs](https://insiderllm.com/guides/structured-output-local-llms/) - Force valid JSON/YAML with grammar constraints and schema validation
 
 ### Troubleshooting
 
