@@ -7,6 +7,7 @@ Running AI locally means privacy, no subscriptions, and full control. This list 
 ## Contents
 
 - [Getting Started](#getting-started)
+- [Tools](#tools)
 - [Hardware Guides](#hardware-guides)
 - [Inference Engines](#inference-engines)
 - [User Interfaces](#user-interfaces)
@@ -16,6 +17,7 @@ Running AI locally means privacy, no subscriptions, and full control. This list 
 - [Image Generation](#image-generation)
 - [AI Agents](#ai-agents)
 - [Advanced Topics](#advanced-topics)
+- [Use Cases](#use-cases)
 - [Communities](#communities)
 - [Contributing](#contributing)
 
@@ -31,6 +33,12 @@ New to local AI? Start here.
 - [LocalLLaMA Wiki](https://www.reddit.com/r/LocalLLaMA/wiki/index/) - Community-maintained knowledge base
 - [What is Quantization?](https://insiderllm.com/guides/llm-quantization-explained/) - Understanding Q4, Q5, Q8 and why they matter
 - [Model Formats Explained](https://insiderllm.com/guides/model-formats-explained-gguf-gptq-awq-exl2/) - GGUF vs GPTQ vs AWQ vs EXL2
+
+## Tools
+
+Interactive tools for planning and optimizing your local AI setup.
+
+- [Local AI Planning Tool](https://insiderllm.com/tools/vram-calculator/) - Interactive VRAM calculator with hardware, model, and task entry points
 
 ## Hardware Guides
 
@@ -53,14 +61,22 @@ Figuring out what hardware you need (or what to do with what you have).
 - [Used RTX 3090 Buying Guide](https://insiderllm.com/guides/used-rtx-3090-buying-guide/) - The value king for 24GB VRAM
 - [Used GPU Buying Guide](https://insiderllm.com/guides/used-gpu-buying-guide-local-ai/) - eBay, Marketplace, what to look for
 - [Budget AI PC Under $500](https://insiderllm.com/guides/budget-local-ai-pc-500/) - Used Optiplex + GPU strategy
+- [RTX 5090 for Local AI](https://insiderllm.com/guides/rtx-5090-local-ai-worth-it/) - Worth the upgrade?
+- [RTX 5060 Ti 16GB Options](https://insiderllm.com/guides/rtx-5060-ti-16gb-local-ai-options/) - Budget next-gen GPU for local AI
+- [RTX 4090 vs Used 3090](https://insiderllm.com/guides/rtx-4090-vs-used-rtx-3090-local-ai/) - Which to buy for AI workloads
+- [RTX 3090 vs 4070 Ti Super](https://insiderllm.com/guides/rtx-3090-vs-4070-ti-super-local-llms/) - Mid-range showdown for local LLMs
 - [RTX 3060 vs 3060 Ti vs 3070 for Local AI](https://insiderllm.com/guides/rtx-3060-vs-3060ti-vs-3070-local-ai/) - 12GB wins for LLMs despite being the cheapest
+- [GB10 Boxes Compared](https://insiderllm.com/guides/gb10-boxes-compared/) - NVIDIA GB10 hardware options
 - [Multi-GPU Setups: Worth It?](https://insiderllm.com/guides/multi-gpu-worth-it/) - When dual GPUs beat one bigger card
+- [Razer AI Kit Guide](https://insiderllm.com/guides/razer-aikit-guide/) - Razer's dedicated AI hardware
 - [Tom's Hardware GPU Hierarchy](https://www.tomshardware.com/reviews/gpu-hierarchy,4388.html) - General GPU rankings
 
 ### Platform Comparisons
 
 - [Mac vs PC for Local AI](https://insiderllm.com/guides/mac-vs-pc-local-ai/) - Unified memory vs discrete GPU
 - [Running LLMs on Mac M-Series](https://insiderllm.com/guides/running-llms-mac-m-series/) - M1/M2/M3/M4 complete guide
+- [M4 Max and Ultra for LLMs](https://insiderllm.com/guides/m4-max-ultra-local-llms-apple-silicon/) - Apple Silicon performance update
+- [Mac Mini M4 for Local AI](https://insiderllm.com/guides/mac-mini-m4-local-ai/) - Best value Mac setup for AI
 - [AMD vs NVIDIA for Local AI](https://insiderllm.com/guides/amd-vs-nvidia-local-ai-rocm/) - ROCm reality check
 - [Laptop vs Desktop for Local AI](https://insiderllm.com/guides/laptop-vs-desktop-local-ai/) - Portability tradeoffs
 - [CPU-Only LLMs](https://insiderllm.com/guides/cpu-only-llms-what-actually-works/) - Running models without a GPU
@@ -77,7 +93,14 @@ The software that actually runs the models.
 - [MLX](https://github.com/ml-explore/mlx) - Apple's framework optimized for M-series Macs
 - [llama-cpp-python](https://github.com/abetlen/llama-cpp-python) - Python bindings for llama.cpp
 - [candle](https://github.com/huggingface/candle) - Rust ML framework with LLM support
+
+### Guides
+
 - [llama.cpp vs Ollama vs vLLM](https://insiderllm.com/guides/llamacpp-vs-ollama-vs-vllm/) - When to use each
+- [ExLlamaV2 vs llama.cpp Speed](https://insiderllm.com/guides/exllamav2-vs-llamacpp-speed-comparison/) - Benchmark comparison of inference backends
+- [Crane Qwen3-TTS Voice Cloning](https://insiderllm.com/guides/crane-qwen3-tts-local-voice-cloning/) - Local voice cloning with Qwen3-TTS
+- [Qwen 2.5 VL + LM Studio Vision](https://insiderllm.com/guides/qwen25-vl-lm-studio-vision-setup/) - Vision model setup in LM Studio
+- [PaddleOCR VL Local Document OCR](https://insiderllm.com/guides/paddleocr-vl-local-document-ocr/) - Document OCR running locally
 
 ## User Interfaces
 
@@ -130,11 +153,17 @@ GUIs and web interfaces for interacting with local models.
 #### Model Guides
 
 - [Llama 3 Guide](https://insiderllm.com/guides/llama-3-guide-every-size/) - Every size from 1B to 405B
+- [Llama 4 Guide](https://insiderllm.com/guides/llama-4-guide-scout-maverick/) - Every Llama 4 size from Scout to Maverick
 - [Qwen Models Guide](https://insiderllm.com/guides/qwen-models-guide/) - Qwen 3, Qwen 2.5 Coder, Qwen-VL
+- [Qwen3 Complete Guide](https://insiderllm.com/guides/qwen3-complete-guide/) - All Qwen3 models compared
+- [Qwen 3.5 Local Guide](https://insiderllm.com/guides/qwen-3-5-local-guide/) - Latest Qwen release
 - [DeepSeek Models Guide](https://insiderllm.com/guides/deepseek-models-guide/) - R1, V3, Coder
+- [DeepSeek V3.2 Guide](https://insiderllm.com/guides/deepseek-v3-2-guide/) - What changed and how to run it
+- [GPT-OSS Guide](https://insiderllm.com/guides/gpt-oss-guide-openai-local/) - OpenAI's first open model
 - [Mistral & Mixtral Guide](https://insiderllm.com/guides/mistral-mixtral-guide/) - 7B, Nemo, Mixtral MoE
 - [Gemma Models Guide](https://insiderllm.com/guides/gemma-models-guide/) - Google's Gemma 3, Gemma 2, CodeGemma, PaliGemma
 - [Phi Models Guide](https://insiderllm.com/guides/phi-models-guide/) - Microsoft's Phi-4, Phi-3.5, Phi-3 — small models that punch above their weight
+- [Llama 4 vs Qwen3 vs DeepSeek V3.2](https://insiderllm.com/guides/llama-4-vs-qwen3-vs-deepseek-v3-2-local/) - Head-to-head comparison for local use
 - [Vision Models Locally](https://insiderllm.com/guides/vision-models-locally/) - Qwen2.5-VL, Gemma 3, Llama 3.2 Vision, Moondream compared
 - [Best Uncensored Local LLMs](https://insiderllm.com/guides/best-uncensored-local-llms/) - Dolphin, abliterated models, and uncensored fine-tunes
 - [Best Models Under 3B](https://insiderllm.com/guides/best-models-under-3b-parameters/) - For edge devices
@@ -197,6 +226,8 @@ Running autonomous AI agents locally.
 - [LangChain](https://github.com/langchain-ai/langchain) - LLM application framework
 - [LlamaIndex](https://github.com/run-llama/llama_index) - Data framework for LLM apps
 - [Haystack](https://github.com/deepset-ai/haystack) - NLP framework for agents
+- [LocalAgent](https://insiderllm.com/guides/localagent-local-first-agent-runtime-safe-tool-calling/) - Local-first agent runtime with safe tool calling
+- [SmarterRouter](https://insiderllm.com/guides/smarterrouter-vram-aware-llm-gateway-local-ai/) - VRAM-aware LLM gateway for local AI
 
 ### Guides
 
@@ -207,10 +238,24 @@ Running autonomous AI agents locally.
 - [OpenClaw ClawHub Security Alert](https://insiderllm.com/guides/openclaw-clawhub-security-alert/) - 341 malicious skills found in marketplace
 - [OpenClaw Plugins & Skills Guide](https://insiderllm.com/guides/openclaw-plugins-skills-guide/) - Navigating the skills ecosystem safely
 - [OpenClaw Token Optimization](https://insiderllm.com/guides/openclaw-token-optimization/) - Reduce API costs for agent workflows
+- [OpenClaw Hardware Guide](https://insiderllm.com/guides/openclaw-hardware-mac-mini-vps-pc/) - Mac Mini, VPS, or PC for agents
+- [OpenClaw Local Zero API Costs](https://insiderllm.com/guides/openclaw-local-zero-api-costs/) - Run OpenClaw fully local
+- [OpenClaw Memory & Context Rot](https://insiderllm.com/guides/openclaw-memory-context-rot/) - Fix agent memory issues
+- [OpenClaw Model Routing](https://insiderllm.com/guides/openclaw-model-routing/) - Route requests to different models
 
 ## Advanced Topics
 
 Going deeper into local AI.
+
+### Architecture & Theory
+
+- [Beyond Transformers: 5 Architectures](https://insiderllm.com/guides/beyond-transformers-5-architectures/) - What comes after Transformers
+- [Context Length Explained](https://insiderllm.com/guides/context-length-explained/) - How context windows work
+- [Hallucination Feedback Loop](https://insiderllm.com/guides/hallucination-feedback-loop/) - When AI errors compound
+- [Session as RAG](https://insiderllm.com/guides/session-as-rag-local-ai-memory/) - Using conversation as retrieval
+- [AI Memory Wall](https://insiderllm.com/guides/ai-memory-wall-why-chatbot-forgets/) - Why chatbots forget
+- [Distributed Wisdom Thinking Network](https://insiderllm.com/guides/distributed-wisdom-thinking-network/) - Multi-node reasoning
+- [Ouro 2B Thinking Model](https://insiderllm.com/guides/ouro-2b-thinking-looped-language-model-local/) - Looped reasoning on small hardware
 
 ### RAG & Document Search
 
@@ -220,9 +265,11 @@ Going deeper into local AI.
 - [Qdrant](https://github.com/qdrant/qdrant) - Vector similarity search engine
 - [FAISS](https://github.com/facebookresearch/faiss) - Facebook's similarity search library
 
-### Fine-Tuning
+### Fine-Tuning & Training
 
 - [Fine-Tuning on Consumer Hardware](https://insiderllm.com/guides/fine-tuning-local-lora-qlora/) - LoRA and QLoRA guide
+- [LoRA Training on Consumer Hardware](https://insiderllm.com/guides/lora-training-consumer-hardware/) - Fine-tune locally on your GPU
+- [NanoLlama Train From Scratch](https://insiderllm.com/guides/nanollama-train-llama-from-scratch/) - Train your own Llama from zero
 - [Axolotl](https://github.com/OpenAccess-AI-Collective/axolotl) - Streamlined fine-tuning tool
 - [Unsloth](https://github.com/unslothai/unsloth) - 2x faster fine-tuning
 - [PEFT](https://github.com/huggingface/peft) - HuggingFace parameter-efficient fine-tuning
@@ -234,6 +281,11 @@ Going deeper into local AI.
 - [whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Fast Whisper inference
 - [Coqui TTS](https://github.com/coqui-ai/TTS) - Text-to-speech synthesis
 - [Piper](https://github.com/rhasspy/piper) - Fast local TTS
+
+### Distributed Inference
+
+- [mycoSwarm vs Exo vs Petals](https://insiderllm.com/guides/mycoswarm-vs-exo-petals-nanobot/) - Distributed inference frameworks compared
+- [mycoSwarm WiFi Laptop Setup](https://insiderllm.com/guides/mycoswarm-wifi-laptop-borrowed-gpu/) - Distributed AI on borrowed GPUs
 
 ### Coding Assistants
 
@@ -260,7 +312,21 @@ Going deeper into local AI.
 
 - [Local AI Troubleshooting Guide](https://insiderllm.com/guides/local-ai-troubleshooting-guide/) - Fix common problems
 - [Ollama Troubleshooting Guide](https://insiderllm.com/guides/ollama-troubleshooting-guide/) - Ollama-specific fixes
-- [Context Length Explained](https://insiderllm.com/guides/context-length-explained/) - Why long conversations crash
+- [CUDA Out of Memory Fix](https://insiderllm.com/guides/cuda-out-of-memory-fix/) - GPU memory errors solved
+- [Ollama Not Using GPU Fix](https://insiderllm.com/guides/ollama-not-using-gpu-fix/) - Force GPU usage in Ollama
+- [ROCm Not Detecting GPU Fix](https://insiderllm.com/guides/rocm-not-detecting-gpu-amd-fix/) - AMD GPU detection issues
+- [Why Is My Local LLM Slow?](https://insiderllm.com/guides/why-local-llm-slow/) - Speed diagnosis guide
+- [Context Length Exceeded Fix](https://insiderllm.com/guides/context-length-exceeded-fix/) - Fix token limit errors
+- [Memory Leak in Long Conversations](https://insiderllm.com/guides/memory-leak-long-conversations-fix/) - VRAM leak fix for long sessions
+
+## Use Cases
+
+Practical applications and scenario-specific guides.
+
+- [Local AI Use Cases Cloud Can't Touch](https://insiderllm.com/guides/local-ai-use-cases-cloud-cant-touch/) - Privacy-first use cases only local can do
+- [Running AI Offline](https://insiderllm.com/guides/running-ai-offline-complete-guide/) - Complete offline setup guide
+- [Local Alternatives to Claude Code](https://insiderllm.com/guides/local-alternatives-claude-code-2026/) - Code agents without cloud
+- [CodeLlama vs DeepSeek vs Qwen Coder](https://insiderllm.com/guides/codellama-vs-deepseek-coder-vs-qwen-coder/) - Coding model comparison
 
 ## Communities
 
