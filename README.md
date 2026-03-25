@@ -440,6 +440,7 @@ Practical applications and scenario-specific guides.
 - [Local AI for Accounting Privacy](https://insiderllm.com/guides/local-ai-accounting-tax-privacy/) - Keep financial data off the cloud
 - [Local AI for Small Business](https://insiderllm.com/guides/local-ai-small-business-replace-subscriptions/) - Replace $1,500/yr in AI subscriptions with a $600 mini PC
 - [Rescued Hardware, Rescued Bees](https://insiderllm.com/guides/rescued-hardware-rescued-bees/) - Building tech from what others throw away
+- [DailyVox](https://getdailyvox.com) - iOS voice diary running AI entirely on-device — sentiment analysis, entity recognition, and personality modeling using Apple's NaturalLanguage framework. No cloud, no data collection. ([App Store](https://apps.apple.com/app/id6760454642))
 
 ### Philosophy & Opinion
 
