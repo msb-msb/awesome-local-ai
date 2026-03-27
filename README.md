@@ -151,6 +151,7 @@ GUIs and web interfaces for interacting with local models.
 - [GPT4All](https://gpt4all.io/) - Simple desktop app, good for beginners
 - [Jan](https://jan.ai/) - Open-source ChatGPT alternative with local models
 - [Msty](https://msty.app/) - Mac-native LLM interface
+- [Locally Uncensored](https://github.com/PurpleDoubleD/locally-uncensored) - All-in-one app for chat, image gen, and video gen using Ollama and ComfyUI
 
 ### Web Interfaces
 
