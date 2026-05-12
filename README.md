@@ -43,6 +43,7 @@ New to local AI? Start here.
 Interactive tools for planning and optimizing your local AI setup.
 
 - [Local AI Planning Tool](https://insiderllm.com/tools/vram-calculator/) - Interactive VRAM calculator with hardware, model, and task entry points
+- [ARC-Neuron LLMBuilder](https://github.com/GareBear99/ARC-Neuron-LLMBuilder) - Local-first AI model lifecycle framework for deterministic small-model promotion, benchmark receipts, candidate/incumbent comparison, archive-ready lineage, and governed AI improvement.
 
 ## Hardware Guides
 
