@@ -4,7 +4,7 @@
 
 Running AI locally means privacy, no subscriptions, and full control. This list covers the tools, guides, and communities that make it practical.
 
-*Last updated: 2026-03-06*
+*Last updated: 2026-06-01*
 
 ## Contents
 
@@ -362,6 +362,7 @@ Going deeper into local AI.
 - [Axolotl](https://github.com/OpenAccess-AI-Collective/axolotl) - Streamlined fine-tuning tool
 - [Unsloth](https://github.com/unslothai/unsloth) - 2x faster fine-tuning
 - [PEFT](https://github.com/huggingface/peft) - HuggingFace parameter-efficient fine-tuning
+- [ML Library Corpus](https://github.com/ATOM00blue/machine-learning-library) - Curated ML education corpus (papers, lectures, explainers) in clean Markdown, for RAG or fine-tuning a domain model
 
 ### Voice & Multimodal
 
