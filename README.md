@@ -43,6 +43,7 @@ New to local AI? Start here.
 Interactive tools for planning and optimizing your local AI setup.
 
 - [Local AI Planning Tool](https://insiderllm.com/tools/vram-calculator/) - Interactive VRAM calculator with hardware, model, and task entry points
+- [Local-AI-Models.ai](https://local-ai-models.ai) - Filterable catalog of open-weight models and agent frameworks sized to your GPU and budget.
 
 ## Hardware Guides
 
