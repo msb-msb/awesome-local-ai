@@ -151,6 +151,7 @@ GUIs and web interfaces for interacting with local models.
 - [GPT4All](https://gpt4all.io/) - Simple desktop app, good for beginners
 - [Jan](https://jan.ai/) - Open-source ChatGPT alternative with local models
 - [Msty](https://msty.app/) - Mac-native LLM interface
+- [Skales](https://skales.app/) - Local-first desktop AI agent; runs goals autonomously, Ollama or 15+ providers
 
 ### Web Interfaces
 
