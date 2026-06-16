@@ -106,6 +106,7 @@ Figuring out what hardware you need (or what to do with what you have).
 - [Best Local LLMs for Mac 2026](https://insiderllm.com/guides/best-local-llms-mac-2026/) - Top picks for M-series
 - [AMD vs NVIDIA for Local AI](https://insiderllm.com/guides/amd-vs-nvidia-local-ai-rocm/) - ROCm reality check
 - [ROCm vs CUDA in 2026](https://insiderllm.com/guides/rocm-vs-cuda-local-ai-2026/) - The software gap nobody talks about
+- [rocm-rdna4-windows](https://github.com/cantascendia/rocm-rdna4-windows) - Native PyTorch on AMD RX 9070 XT (RDNA4) on Windows, no WSL2; pinned ROCm 7.2.1 wheels
 - [Laptop vs Desktop for Local AI](https://insiderllm.com/guides/laptop-vs-desktop-local-ai/) - Portability tradeoffs
 - [CPU-Only LLMs](https://insiderllm.com/guides/cpu-only-llms-what-actually-works/) - Running models without a GPU
 - [WSL2 for Local AI](https://insiderllm.com/guides/wsl2-local-ai-windows-guide/) - Complete Windows setup with GPU passthrough
