@@ -284,6 +284,7 @@ Running autonomous AI agents locally.
 ### Frameworks
 
 - [OpenClaw](https://github.com/open-claw/open-claw) - Open-source AI agent framework
+- [Hivekeep](https://github.com/MarlBurroW/hivekeep) - Self-hosted platform running a team of specialized AI agents with persistent memory and a web UI; works with local models via Ollama (OpenAI-compatible connector)
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - Autonomous GPT-4 agent
 - [CrewAI](https://github.com/joaomdmoura/crewAI) - Multi-agent orchestration
 - [LangChain](https://github.com/langchain-ai/langchain) - LLM application framework
