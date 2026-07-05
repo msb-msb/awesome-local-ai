@@ -291,6 +291,7 @@ Running autonomous AI agents locally.
 - [Haystack](https://github.com/deepset-ai/haystack) - NLP framework for agents
 - [LocalAgent](https://insiderllm.com/guides/localagent-local-first-agent-runtime-safe-tool-calling/) - Local-first agent runtime with safe tool calling
 - [SmarterRouter](https://insiderllm.com/guides/smarterrouter-vram-aware-llm-gateway-local-ai/) - VRAM-aware LLM gateway for local AI
+- [CorvinOS](https://github.com/CorvinLabs/CorvinOS) - Self-hosted agentic OS connecting local Ollama models and cloud providers to Discord, Telegram, WhatsApp, Slack, and Email; GDPR + EU AI Act compliance built into the architecture (`pip install corvinos`, Apache-2.0)
 
 ### OpenClaw Guides
 
