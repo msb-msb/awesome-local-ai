@@ -291,6 +291,7 @@ Running autonomous AI agents locally.
 - [Haystack](https://github.com/deepset-ai/haystack) - NLP framework for agents
 - [LocalAgent](https://insiderllm.com/guides/localagent-local-first-agent-runtime-safe-tool-calling/) - Local-first agent runtime with safe tool calling
 - [SmarterRouter](https://insiderllm.com/guides/smarterrouter-vram-aware-llm-gateway-local-ai/) - VRAM-aware LLM gateway for local AI
+- [Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory) - Searchable, auditable memory lifecycle for local AI agents
 
 ### OpenClaw Guides
 
