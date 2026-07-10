@@ -352,6 +352,8 @@ Going deeper into local AI.
 - [Chroma](https://github.com/chroma-core/chroma) - Open-source embedding database
 - [Qdrant](https://github.com/qdrant/qdrant) - Vector similarity search engine
 - [FAISS](https://github.com/facebookresearch/faiss) - Facebook's similarity search library
+- [ternlight](https://github.com/soycaporal/ternlight) - On-device sentence-embedding model for semantic search/RAG; ternary 1.58-bit, ~5-7 MB Rust→WASM, runs in-browser with no server
+
 
 ### Fine-Tuning & Training
 
