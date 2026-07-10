@@ -151,6 +151,7 @@ GUIs and web interfaces for interacting with local models.
 - [GPT4All](https://gpt4all.io/) - Simple desktop app, good for beginners
 - [Jan](https://jan.ai/) - Open-source ChatGPT alternative with local models
 - [Msty](https://msty.app/) - Mac-native LLM interface
+- [Off Grid AI Desktop](https://getoffgridai.co/desktop) - Open-source macOS app for fully-offline local AI: LLM chat, image generation, dictation, and personal memory/RAG
 
 ### Web Interfaces
 
