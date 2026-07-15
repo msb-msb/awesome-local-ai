@@ -125,6 +125,7 @@ The software that actually runs the models.
 - [MLX](https://github.com/ml-explore/mlx) - Apple's framework optimized for M-series Macs
 - [llama-cpp-python](https://github.com/abetlen/llama-cpp-python) - Python bindings for llama.cpp
 - [candle](https://github.com/huggingface/candle) - Rust ML framework with LLM support
+- [LocalMode](https://github.com/LocalMode-AI/LocalMode) - Local-first JavaScript AI toolkit that runs LLMs, embeddings, and vector search entirely in the browser, wrapping Transformers.js, WebLLM, wllama, and LiteRT
 
 ### Guides
 
