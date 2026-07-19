@@ -125,6 +125,7 @@ The software that actually runs the models.
 - [MLX](https://github.com/ml-explore/mlx) - Apple's framework optimized for M-series Macs
 - [llama-cpp-python](https://github.com/abetlen/llama-cpp-python) - Python bindings for llama.cpp
 - [candle](https://github.com/huggingface/candle) - Rust ML framework with LLM support
+- [Alyxx Engine](https://github.com/Alejandro-GDL/Alyxx-Engine) - Runs giant MoE models on a 16 GB consumer GPU, losslessly, by streaming experts off disk
 
 ### Guides
 
