@@ -4,7 +4,7 @@
 
 Running AI locally means privacy, no subscriptions, and full control. This list covers the tools, guides, and communities that make it practical.
 
-*Last updated: 2026-06-01*
+*Last updated: 2026-07-20*
 
 ## Contents
 
@@ -140,6 +140,15 @@ The software that actually runs the models.
 - [Qwen 2.5 VL + LM Studio Vision](https://insiderllm.com/guides/qwen25-vl-lm-studio-vision-setup/) - Vision model setup in LM Studio
 - [PaddleOCR VL Local Document OCR](https://insiderllm.com/guides/paddleocr-vl-local-document-ocr/) - Document OCR running locally
 - [llama.cpp Hugging Face Acquisition](https://insiderllm.com/guides/llamacpp-hugging-face-ggml-acquisition/) - What the ggml.ai acquisition means
+- [2.5x Faster Qwen on RTX 3090 with DFlash](https://insiderllm.com/guides/dflash-rtx-3090-bench-both-qwens/) - Firsthand DFlash speedup benched on Qwen 3.5 and 3.6
+- [Qwen 3.6 27B at 60 tok/s with MTP](https://insiderllm.com/guides/wicked-fast-qwen-3-6-27b-mtp-rtx-3090/) - Firsthand MTP speculative decoding on a 3090
+- [Run Qwen 3.6 35B MoE Locally](https://insiderllm.com/guides/best-way-run-qwen-3-6-35b-moe-locally/) - 35B-A3B MoE at 101 tok/s on a single 3090, VRAM tiers
+- [2x Token Output on RTX 3090 with DFlash](https://insiderllm.com/guides/best-way-2x-token-output-rtx-3090-qwen-3-6-dflash/) - Firsthand 2x speedup with speculative decoding
+- [DFlash vs MTP on RTX 3090](https://insiderllm.com/guides/dflash-vs-mtp-rtx-3090-head-to-head/) - Two speculative-decoding methods tested firsthand
+- [Gemma 4 vs Qwen 3.6 on RTX 3090](https://insiderllm.com/guides/wicked-fast-gemma-4-26b-a4b-vs-qwen-3-6-27b-rtx-3090/) - Gemma 4 26B-A4B vs Qwen 3.6 27B, benched firsthand
+- [24GB Backend Shootout](https://insiderllm.com/guides/best-24gb-backend-shootout-ik-llama-beellama-llamacpp/) - ik_llama vs BeeLlama vs llama.cpp head-to-head
+- [FP4 in llama.cpp: NVFP4 vs MXFP4](https://insiderllm.com/guides/fp4-inference-llamacpp-nvfp4-mxfp4/) - The two FP4 formats compared for local inference
+- [Ollama 0.30.0 Release Notes](https://insiderllm.com/guides/ollama-0-30-0-whats-new/) - What's new, faster, and what breaks on upgrade
 
 ## User Interfaces
 
@@ -222,6 +231,10 @@ GUIs and web interfaces for interacting with local models.
 - [Vision Models Locally](https://insiderllm.com/guides/vision-models-locally/) - Qwen2.5-VL, Gemma 3, Llama 3.2 Vision, Moondream
 - [Best Uncensored Local LLMs](https://insiderllm.com/guides/best-uncensored-local-llms/) - Dolphin, abliterated models, uncensored fine-tunes
 - [Best Models Under 3B](https://insiderllm.com/guides/best-models-under-3b-parameters/) - For edge devices
+- [Qwen 3.6 Complete Guide](https://insiderllm.com/guides/qwen-3-6-local-ai-guide/) - 27B dense and 35B-A3B MoE, which fits your GPU
+- [How to Run GLM 5.2 Locally](https://insiderllm.com/guides/run-glm-5-2-locally/) - GPU, VRAM, and quant guide for GLM 5.2
+- [DeepSeek V4 Flash vs Pro](https://insiderllm.com/guides/deepseek-v4-flash-vs-pro-guide/) - Verdict, cost, and setup for both tiers
+- [Qwen 3.6 Q4 Quant & Coding Agents](https://insiderllm.com/guides/qwen-3-6-q4-quant-coding-agents/) - Why Q4 quant breaks tool-calling coding agents
 
 #### By Use Case
 
@@ -405,11 +418,17 @@ Going deeper into local AI.
 - [The Complexity Cliff](https://insiderllm.com/guides/local-ai-complexity-cliff/) - Why the jump from hello world to useful is so hard
 - [Prompt Debt](https://insiderllm.com/guides/prompt-debt-system-prompt-maintenance/) - When your system prompt becomes unmaintainable
 - [AI Market Panic Explained](https://insiderllm.com/guides/ai-market-panic-capability-dissipation-gap/) - Running local puts you on the right side of the gap
+- [Qwen 3.8 & Kimi K3: Open You Can't Run](https://insiderllm.com/guides/open-weights-you-cant-run/) - Two trillion-param "open" models, neither runnable — what to run instead
+- [Open Frontier vs Consumer Hardware](https://insiderllm.com/guides/open-frontier-vs-consumer-hardware/) - Inkling 975B's smallest quant is 270GB; the frontier left your hardware behind
+- [The West's Open-Source Second Wind](https://insiderllm.com/guides/western-open-source-ai-china-gap/) - If China pulls back on open weights, who fills the gap
+- [China's AI Export Controls](https://insiderllm.com/guides/china-ai-export-controls-local-models/) - Proposed export limits and what they mean for local models
+- [Is Qwen Going Closed?](https://insiderllm.com/guides/qwen-open-weights-vs-closed-frontier-2026/) - Open weights vs frontier: where Qwen's strategy is heading
 
 ### Privacy & Security
 
 - [Local AI Privacy Guide](https://insiderllm.com/guides/local-ai-privacy-guide/) - What's private, what leaks, and how to lock it down
 - [Structured Output from Local LLMs](https://insiderllm.com/guides/structured-output-local-llms/) - Force valid JSON/YAML with grammar constraints
+- [Hugging Face AI-Agent Breach](https://insiderllm.com/guides/hugging-face-ai-agent-breach/) - First AI-agent-driven breach; public models unaffected, forensics run on open-weight GLM 5.2
 
 ### Troubleshooting
 
@@ -429,6 +448,7 @@ Going deeper into local AI.
 - [Model Outputs Garbage](https://insiderllm.com/guides/model-outputs-garbage-debug/) - Debug bad generations
 - [llama.cpp Build Errors](https://insiderllm.com/guides/llamacpp-build-errors-fixes/) - Common fixes for every platform
 - [Qwen2.5-VL LM Studio Troubleshooting](https://insiderllm.com/guides/qwen25-vl-lm-studio-troubleshooting/) - Fix mmproj and vision errors
+- [Fix Slow Qwen 3.6 27B on RTX 3090](https://insiderllm.com/guides/fix-slow-qwen-3-6-27b-rtx-3090/) - 8-step checklist when you're stuck at 12 tok/s
 
 ## Use Cases
 
