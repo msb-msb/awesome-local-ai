@@ -162,6 +162,10 @@ GUIs and web interfaces for interacting with local models.
 - [Jan](https://jan.ai/) - Open-source ChatGPT alternative with local models
 - [Msty](https://msty.app/) - Mac-native LLM interface
 - [Off Grid AI Desktop](https://getoffgridai.co/desktop) - Open-source macOS app for fully-offline local AI: LLM chat, image generation, dictation, and personal memory/RAG
+- [Typer](https://typer.space) - Free on-device AI chat for macOS (Apple Silicon); no account, no cloud, works offline
+- [Skales](https://skales.app/) - Local-first desktop AI agent; runs goals autonomously, Ollama or 15+ providers
+- [lilbee](https://github.com/tobocop2/lilbee) - Single-executable local-model manager; answers questions about your files and code with citations, terminal UI + MCP server
+- [OATS](https://github.com/ariso-ai/oats) - On-device macOS meeting notes with transcription, speaker labels, and AI summaries
 
 ### Web Interfaces
 
@@ -306,6 +310,8 @@ Running autonomous AI agents locally.
 - [Haystack](https://github.com/deepset-ai/haystack) - NLP framework for agents
 - [LocalAgent](https://insiderllm.com/guides/localagent-local-first-agent-runtime-safe-tool-calling/) - Local-first agent runtime with safe tool calling
 - [SmarterRouter](https://insiderllm.com/guides/smarterrouter-vram-aware-llm-gateway-local-ai/) - VRAM-aware LLM gateway for local AI
+- [Hivekeep](https://github.com/MarlBurroW/hivekeep) - Self-hosted team of specialized AI agents with persistent memory and a web UI; works with local models via Ollama
+- [CorvinOS](https://github.com/CorvinLabs/CorvinOS) - Self-hosted agentic OS connecting local Ollama models to Discord, Telegram, WhatsApp, Slack, and Email
 
 ### OpenClaw Guides
 
@@ -367,6 +373,7 @@ Going deeper into local AI.
 - [Chroma](https://github.com/chroma-core/chroma) - Open-source embedding database
 - [Qdrant](https://github.com/qdrant/qdrant) - Vector similarity search engine
 - [FAISS](https://github.com/facebookresearch/faiss) - Facebook's similarity search library
+- [ternlight](https://github.com/soycaporal/ternlight) - On-device sentence embeddings for semantic search/RAG; ternary 1.58-bit, ~5-7 MB, runs in-browser via WASM
 
 ### Fine-Tuning & Training
 
@@ -465,6 +472,7 @@ Practical applications and scenario-specific guides.
 - [Local AI for Accounting Privacy](https://insiderllm.com/guides/local-ai-accounting-tax-privacy/) - Keep financial data off the cloud
 - [Local AI for Small Business](https://insiderllm.com/guides/local-ai-small-business-replace-subscriptions/) - Replace $1,500/yr in AI subscriptions with a $600 mini PC
 - [Rescued Hardware, Rescued Bees](https://insiderllm.com/guides/rescued-hardware-rescued-bees/) - Building tech from what others throw away
+- [DailyVox](https://getdailyvox.com) - iOS voice diary with on-device sentiment, entity, and personality analysis; no cloud, no data collection
 
 ### Philosophy & Opinion
 
