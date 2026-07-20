@@ -383,6 +383,7 @@ Going deeper into local AI.
 - [Whisper](https://github.com/openai/whisper) - OpenAI's speech recognition
 - [whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Fast Whisper inference
 - [Coqui TTS](https://github.com/coqui-ai/TTS) - Text-to-speech synthesis
+- [KittenTTS](https://github.com/KittenML/KittenTTS) - CPU-friendly ONNX text-to-speech
 - [Piper](https://github.com/rhasspy/piper) - Fast local TTS
 
 ### Distributed Inference
