@@ -43,6 +43,7 @@ New to local AI? Start here.
 Interactive tools for planning and optimizing your local AI setup.
 
 - [Local AI Planning Tool](https://insiderllm.com/tools/vram-calculator/) - Interactive VRAM calculator with hardware, model, and task entry points
+- [LLM VRAM Calculator](https://runaihome.com/tools/vram-calculator/) - Pick a model, GGUF quantization, and context length to get a VRAM estimate with a consumer-GPU fit table
 
 ## Hardware Guides
 
