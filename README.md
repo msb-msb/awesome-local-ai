@@ -166,6 +166,7 @@ GUIs and web interfaces for interacting with local models.
 - [Skales](https://skales.app/) - Local-first desktop AI agent; runs goals autonomously, Ollama or 15+ providers
 - [lilbee](https://github.com/tobocop2/lilbee) - Single-executable local-model manager; answers questions about your files and code with citations, terminal UI + MCP server
 - [OATS](https://github.com/ariso-ai/oats) - On-device macOS meeting notes with transcription, speaker labels, and AI summaries
+- [Chaty](https://github.com/Fangyuan025/Chaty) - Open-source offline AI workspace: local coding agent, MCP client, RAG and voice on GGUF (llama.cpp) or native MLX; no account, no telemetry
 
 ### Web Interfaces
 
