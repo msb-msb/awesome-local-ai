@@ -302,16 +302,17 @@ Running autonomous AI agents locally.
 
 ### Frameworks
 
-- [OpenClaw](https://github.com/open-claw/open-claw) - Open-source AI agent framework
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - Autonomous GPT-4 agent
+- [CorvinOS](https://github.com/CorvinLabs/CorvinOS) - Self-hosted agentic OS connecting local Ollama models to Discord, Telegram, WhatsApp, Slack, and Email
 - [CrewAI](https://github.com/joaomdmoura/crewAI) - Multi-agent orchestration
+- [Haystack](https://github.com/deepset-ai/haystack) - NLP framework for agents
+- [Hivekeep](https://github.com/MarlBurroW/hivekeep) - Self-hosted team of specialized AI agents with persistent memory and a web UI; works with local models via Ollama
 - [LangChain](https://github.com/langchain-ai/langchain) - LLM application framework
 - [LlamaIndex](https://github.com/run-llama/llama_index) - Data framework for LLM apps
-- [Haystack](https://github.com/deepset-ai/haystack) - NLP framework for agents
 - [LocalAgent](https://insiderllm.com/guides/localagent-local-first-agent-runtime-safe-tool-calling/) - Local-first agent runtime with safe tool calling
+- [OpenClaw](https://github.com/open-claw/open-claw) - Open-source AI agent framework
+- [Ouroboros](https://github.com/razzant/ouroboros) - Persistent agent with durable memory, reviewed self-modification, and local GGUF inference
 - [SmarterRouter](https://insiderllm.com/guides/smarterrouter-vram-aware-llm-gateway-local-ai/) - VRAM-aware LLM gateway for local AI
-- [Hivekeep](https://github.com/MarlBurroW/hivekeep) - Self-hosted team of specialized AI agents with persistent memory and a web UI; works with local models via Ollama
-- [CorvinOS](https://github.com/CorvinLabs/CorvinOS) - Self-hosted agentic OS connecting local Ollama models to Discord, Telegram, WhatsApp, Slack, and Email
 
 ### OpenClaw Guides
 
