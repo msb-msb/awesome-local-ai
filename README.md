@@ -388,6 +388,7 @@ Going deeper into local AI.
 
 ### Voice & Multimodal
 
+- [AI Dictation](https://github.com/writingmate/aidictation) - Voice typing with offline recognition on supported devices
 - [Voice Chat with Local LLMs](https://insiderllm.com/guides/voice-chat-local-llms-whisper-tts/) - Whisper + TTS setup
 - [Whisper](https://github.com/openai/whisper) - OpenAI's speech recognition
 - [whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Fast Whisper inference
