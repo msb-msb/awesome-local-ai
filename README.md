@@ -309,6 +309,7 @@ Running autonomous AI agents locally.
 - [LlamaIndex](https://github.com/run-llama/llama_index) - Data framework for LLM apps
 - [Haystack](https://github.com/deepset-ai/haystack) - NLP framework for agents
 - [LocalAgent](https://insiderllm.com/guides/localagent-local-first-agent-runtime-safe-tool-calling/) - Local-first agent runtime with safe tool calling
+- [qq-ai-bot](https://github.com/happysnaker/qq-ai-bot) - Self-hosted QQ/OneBot bridge for ACP-compatible local agents
 - [SmarterRouter](https://insiderllm.com/guides/smarterrouter-vram-aware-llm-gateway-local-ai/) - VRAM-aware LLM gateway for local AI
 - [Hivekeep](https://github.com/MarlBurroW/hivekeep) - Self-hosted team of specialized AI agents with persistent memory and a web UI; works with local models via Ollama
 - [CorvinOS](https://github.com/CorvinLabs/CorvinOS) - Self-hosted agentic OS connecting local Ollama models to Discord, Telegram, WhatsApp, Slack, and Email
