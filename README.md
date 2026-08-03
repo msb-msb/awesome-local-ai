@@ -33,6 +33,7 @@ New to local AI? Start here.
 - [Run Your First Local LLM](https://insiderllm.com/guides/run-first-local-llm/) - Zero to chatting in 10 minutes with Ollama
 - [Ollama Quickstart](https://github.com/ollama/ollama#quickstart) - Official getting started guide
 - [LM Studio Download](https://lmstudio.ai/) - Visual interface, no command line needed
+- [Local AI Handbook](https://localaihandbook.com/basics/what-is-local-ai/) - Understand local AI components, limits, and data flow
 - [LocalLLaMA Wiki](https://www.reddit.com/r/LocalLLaMA/wiki/index/) - Community-maintained knowledge base
 - [What is Quantization?](https://insiderllm.com/guides/llm-quantization-explained/) - Understanding Q4, Q5, Q8 and why they matter
 - [Model Formats Explained](https://insiderllm.com/guides/model-formats-explained-gguf-gptq-awq-exl2/) - GGUF vs GPTQ vs AWQ vs EXL2
