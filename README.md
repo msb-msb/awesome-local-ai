@@ -40,6 +40,7 @@ New to local AI? Start here.
 
 ## Tools
 
+- [PostTrainLLM](https://github.com/PostTrainLLM/posttrainllm) - Mac-local factory to post-train and evaluate specialist LLMs (MLX packaging, eval gates). Guide: https://posttrainllm.com/how-to-train-your-own-llm
 Interactive tools for planning and optimizing your local AI setup.
 
 - [Local AI Planning Tool](https://insiderllm.com/tools/vram-calculator/) - Interactive VRAM calculator with hardware, model, and task entry points
