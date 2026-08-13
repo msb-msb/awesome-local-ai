@@ -408,6 +408,7 @@ Going deeper into local AI.
 - [Aider](https://github.com/paul-gauthier/aider) - AI pair programming in terminal
 - [Codeium](https://codeium.com/) - Free AI code completion (cloud + local options)
 - [Nanocoder](https://github.com/Nano-Collective/nanocoder) - Local-first terminal coding agent; bring your own model, code stays local
+- [Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent) - CLI and TUI coding agent running open-weight models on your machine, no API key
 - [Replace GitHub Copilot with Local LLMs](https://insiderllm.com/guides/replace-github-copilot-local-llms-vscode/) - Free, private AI code completion in VS Code
 - [Claude Code vs PI Agent](https://insiderllm.com/guides/claude-code-vs-pi-agent-local-ai/) - Cloud coding agent vs local alternative
 - [PI Agent + Ollama](https://insiderllm.com/guides/pi-agent-local-models-ollama/) - Run a coding agent on local models
