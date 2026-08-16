@@ -42,6 +42,7 @@ New to local AI? Start here.
 
 Interactive tools for planning and optimizing your local AI setup.
 
+- [LLM-PQR](https://github.com/Amazed-Labs/llm-pqr) - Keep private workloads local while comparing cost, speed, and quality
 - [Local AI Planning Tool](https://insiderllm.com/tools/vram-calculator/) - Interactive VRAM calculator with hardware, model, and task entry points
 
 ## Hardware Guides
