@@ -302,6 +302,7 @@ Running autonomous AI agents locally.
 
 ### Frameworks
 
+- [Agent QA](https://github.com/vostride/agent-qa) - Run natural-language web/mobile QA with local or compatible models.
 - [OpenClaw](https://github.com/open-claw/open-claw) - Open-source AI agent framework
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - Autonomous GPT-4 agent
 - [CrewAI](https://github.com/joaomdmoura/crewAI) - Multi-agent orchestration
