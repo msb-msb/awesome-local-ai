@@ -1,5 +1,6 @@
 # Awesome Local AI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+- [Persona](https://github.com/jayamitkatariya/personacli) - Local-first workspace with AI chat via Ollama. Notes, tasks, voice input.
 > A curated list of resources for running AI locally on consumer hardware -- LLMs, image generation, and AI agents without cloud dependencies. 230+ guides, tools, and community links.
 
 Running AI locally means privacy, no subscriptions, and full control. This list covers the tools, guides, and communities that make it practical.
