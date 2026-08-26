@@ -126,6 +126,8 @@ The software that actually runs the models.
 - [MLX](https://github.com/ml-explore/mlx) - Apple's framework optimized for M-series Macs
 - [llama-cpp-python](https://github.com/abetlen/llama-cpp-python) - Python bindings for llama.cpp
 - [candle](https://github.com/huggingface/candle) - Rust ML framework with LLM support
+- [deepseek-v4-flash-0731-in-c](https://github.com/shyringo/deepseek-v4-flash-0731-in-c) - Runs DeepSeek-V4-Flash-0731 on one laptop CPU with a tested 8 GB path
+- [qwen3.8-27b-in-c](https://github.com/shyringo/qwen3.8-27b-in-c) - Runs Qwen3.8-27B GGUFs on one laptop CPU with a tested 8 GB path
 
 ### Guides
 
