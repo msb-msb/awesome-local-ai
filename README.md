@@ -387,6 +387,7 @@ Going deeper into local AI.
 - [ML Library Corpus](https://github.com/ATOM00blue/machine-learning-library) - Curated ML education corpus (papers, lectures, explainers) in clean Markdown, for RAG or fine-tuning a domain model
 
 ### Voice & Multimodal
+- [Freeflow](https://github.com/jayamitkatariya/Freeflow) - Voice dictation with screen context you point at. Hold ⌥ to record, circle to capture screenshots, local Parakeet transcription.
 
 - [Voice Chat with Local LLMs](https://insiderllm.com/guides/voice-chat-local-llms-whisper-tts/) - Whisper + TTS setup
 - [Whisper](https://github.com/openai/whisper) - OpenAI's speech recognition
