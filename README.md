@@ -166,6 +166,7 @@ GUIs and web interfaces for interacting with local models.
 - [Skales](https://skales.app/) - Local-first desktop AI agent; runs goals autonomously, Ollama or 15+ providers
 - [lilbee](https://github.com/tobocop2/lilbee) - Single-executable local-model manager; answers questions about your files and code with citations, terminal UI + MCP server
 - [OATS](https://github.com/ariso-ai/oats) - On-device macOS meeting notes with transcription, speaker labels, and AI summaries
+- [SmartBrain](https://github.com/SecureCloudGroup/SmartBrain_3000) - Local-first assistant: encrypted knowledge base, approval-gated tools, voice, phone link
 
 ### Web Interfaces
 
