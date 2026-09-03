@@ -124,6 +124,7 @@ The software that actually runs the models.
 - [vLLM](https://github.com/vllm-project/vllm) - High-throughput serving for production deployments
 - [ExLlamaV2](https://github.com/turboderp/exllamav2) - Fastest single-user NVIDIA inference, EXL2 format
 - [MLX](https://github.com/ml-explore/mlx) - Apple's framework optimized for M-series Macs
+- [Higgs](https://github.com/panbanda/higgs) - Serve MLX models on a Mac with OpenAI and Anthropic APIs, provider routing, and a dashboard
 - [llama-cpp-python](https://github.com/abetlen/llama-cpp-python) - Python bindings for llama.cpp
 - [candle](https://github.com/huggingface/candle) - Rust ML framework with LLM support
 
