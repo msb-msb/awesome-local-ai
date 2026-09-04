@@ -43,6 +43,7 @@ New to local AI? Start here.
 Interactive tools for planning and optimizing your local AI setup.
 
 - [Local AI Planning Tool](https://insiderllm.com/tools/vram-calculator/) - Interactive VRAM calculator with hardware, model, and task entry points
+- [GGUF VRAM Calculator](https://learnaitodayonline.com/vram-calculator/) - Which quant fits your card, from measured GGUF file sizes and per-layer KV cache for hybrid-attention models
 
 ## Hardware Guides
 
@@ -62,6 +63,8 @@ Figuring out what hardware you need (or what to do with what you have).
 - [Mixtral VRAM Requirements](https://insiderllm.com/guides/mixtral-vram-requirements/) - Every quantization level for 8x7B and 8x22B
 - [KV Cache and VRAM](https://insiderllm.com/guides/kv-cache-optimization-guide/) - Why context length eats your VRAM and how to fix it
 - [num_ctx VRAM Overflow](https://insiderllm.com/guides/num-ctx-vram-overflow-slow-inference/) - The silent performance killer nobody warns about
+- [Which Quant to Download](https://learnaitodayonline.com/which-quant-to-download/) - Matching GGUF quantisation to the VRAM you actually have
+- [KV Cache Quantization](https://learnaitodayonline.com/kv-cache-quantization/) - Trading cache precision for context length
 - [GPU Benchmarks for LLM Inference](https://github.com/XiongjieDai/GPU-Benchmarks-on-LLM-Inference) - Community benchmark database
 
 ### Buying Guides
