@@ -42,6 +42,7 @@ New to local AI? Start here.
 
 Interactive tools for planning and optimizing your local AI setup.
 
+- [bean](https://github.com/heenatrivedi321-max/bean) - Picks the right local model for your hardware, downloads it, hands off to Ollama
 - [Local AI Planning Tool](https://insiderllm.com/tools/vram-calculator/) - Interactive VRAM calculator with hardware, model, and task entry points
 
 ## Hardware Guides
