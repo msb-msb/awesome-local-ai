@@ -394,6 +394,7 @@ Going deeper into local AI.
 - [Coqui TTS](https://github.com/coqui-ai/TTS) - Text-to-speech synthesis
 - [KittenTTS](https://github.com/KittenML/KittenTTS) - CPU-friendly ONNX text-to-speech
 - [Piper](https://github.com/rhasspy/piper) - Fast local TTS
+- [Libratory](https://github.com/subev/libratory) - PDF to audiobook with local TTS (Kokoro, Pocket TTS, KugelAudio), local OCR, and RAG search across your books via Ollama or LM Studio
 
 ### Distributed Inference
 
