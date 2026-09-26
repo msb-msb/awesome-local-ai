@@ -42,6 +42,7 @@ New to local AI? Start here.
 
 Interactive tools for planning and optimizing your local AI setup.
 
+- [LLM VRAM Calculator](https://toolsite-static.pages.dev/llm-vram-calculator/) - Check if any Hugging Face model fits your GPU before downloading; handles MoE and MLA
 - [Local AI Planning Tool](https://insiderllm.com/tools/vram-calculator/) - Interactive VRAM calculator with hardware, model, and task entry points
 
 ## Hardware Guides
