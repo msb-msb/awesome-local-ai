@@ -163,6 +163,7 @@ GUIs and web interfaces for interacting with local models.
 - [Msty](https://msty.app/) - Mac-native LLM interface
 - [Off Grid AI Desktop](https://getoffgridai.co/desktop) - Open-source macOS app for fully-offline local AI: LLM chat, image generation, dictation, and personal memory/RAG
 - [Typer](https://typer.space) - Free on-device AI chat for macOS (Apple Silicon); no account, no cloud, works offline
+- [vixl](https://github.com/vixl-ai/vixl) - Local-first desktop coding agent with BYOK and MCP
 - [Skales](https://skales.app/) - Local-first desktop AI agent; runs goals autonomously, Ollama or 15+ providers
 - [lilbee](https://github.com/tobocop2/lilbee) - Single-executable local-model manager; answers questions about your files and code with citations, terminal UI + MCP server
 - [OATS](https://github.com/ariso-ai/oats) - On-device macOS meeting notes with transcription, speaker labels, and AI summaries
