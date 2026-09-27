@@ -126,6 +126,7 @@ The software that actually runs the models.
 - [MLX](https://github.com/ml-explore/mlx) - Apple's framework optimized for M-series Macs
 - [llama-cpp-python](https://github.com/abetlen/llama-cpp-python) - Python bindings for llama.cpp
 - [candle](https://github.com/huggingface/candle) - Rust ML framework with LLM support
+- [jevos](https://github.com/feder-cr/jev) - CPU-only yes/no decision model server with a Jev-compatible HTTP API, no GPU needed
 
 ### Guides
 
