@@ -42,6 +42,7 @@ New to local AI? Start here.
 
 Interactive tools for planning and optimizing your local AI setup.
 
+- [Every Local AI VRAM Calculator](https://everylocalai.com/calculator/vram) - VRAM needed per model, quant, and context, with per-GPU speed benchmarks
 - [Local AI Planning Tool](https://insiderllm.com/tools/vram-calculator/) - Interactive VRAM calculator with hardware, model, and task entry points
 
 ## Hardware Guides
