@@ -157,6 +157,7 @@ GUIs and web interfaces for interacting with local models.
 
 ### Desktop Applications
 
+- [AI Novel Writer](https://github.com/EthanYoQ/AI-Novel-Writer) - Keeps fiction outlines, characters and chapter revisions together while writing with Ollama.
 - [LM Studio](https://lmstudio.ai/) - Polished desktop app with built-in model browser
 - [GPT4All](https://gpt4all.io/) - Simple desktop app, good for beginners
 - [Jan](https://jan.ai/) - Open-source ChatGPT alternative with local models
