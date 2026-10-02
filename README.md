@@ -207,6 +207,7 @@ GUIs and web interfaces for interacting with local models.
 - [DeepSeek](https://github.com/deepseek-ai) - Strong reasoning and coding models
 - [Phi](https://huggingface.co/microsoft/phi-4) - Microsoft's small-but-capable models
 - [Gemma](https://ai.google.dev/gemma) - Google's open models
+- [WaterSheep](https://github.com/SamratDuttaOfficial/WaterSheep) - Typed yes/no, choice, rating and multi-label decisions offline; an open-source Jev alternative
 
 #### Model Guides
 
