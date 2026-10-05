@@ -312,6 +312,7 @@ Running autonomous AI agents locally.
 - [SmarterRouter](https://insiderllm.com/guides/smarterrouter-vram-aware-llm-gateway-local-ai/) - VRAM-aware LLM gateway for local AI
 - [Hivekeep](https://github.com/MarlBurroW/hivekeep) - Self-hosted team of specialized AI agents with persistent memory and a web UI; works with local models via Ollama
 - [CorvinOS](https://github.com/CorvinLabs/CorvinOS) - Self-hosted agentic OS connecting local Ollama models to Discord, Telegram, WhatsApp, Slack, and Email
+- [OpenAmer](https://github.com/openamer/openamer) - Windows-native agent runtime that operates the real desktop (filesystem, terminal, GUI, browser over CDP) entirely offline, with in-process cognition tools and a 10-subsystem heartbeat
 
 ### OpenClaw Guides
 
