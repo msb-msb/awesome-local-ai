@@ -394,6 +394,7 @@ Going deeper into local AI.
 - [Coqui TTS](https://github.com/coqui-ai/TTS) - Text-to-speech synthesis
 - [KittenTTS](https://github.com/KittenML/KittenTTS) - CPU-friendly ONNX text-to-speech
 - [Piper](https://github.com/rhasspy/piper) - Fast local TTS
+- [TuxWhisper](https://github.com/ialmajai/tuxwhisper) - Offline push-to-talk dictation for Linux with optional Ollama cleanup
 
 ### Distributed Inference
 
