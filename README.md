@@ -407,6 +407,7 @@ Going deeper into local AI.
 - [Tabby](https://github.com/TabbyML/tabby) - Self-hosted code completion
 - [Aider](https://github.com/paul-gauthier/aider) - AI pair programming in terminal
 - [Codeium](https://codeium.com/) - Free AI code completion (cloud + local options)
+- [CodeOtter](https://github.com/dharmeshgurnani/CodeOtter) - Self-hosted PR reviewer for GitHub, Forgejo and Gitea; runs fully offline on local GGUF models
 - [Nanocoder](https://github.com/Nano-Collective/nanocoder) - Local-first terminal coding agent; bring your own model, code stays local
 - [Replace GitHub Copilot with Local LLMs](https://insiderllm.com/guides/replace-github-copilot-local-llms-vscode/) - Free, private AI code completion in VS Code
 - [Claude Code vs PI Agent](https://insiderllm.com/guides/claude-code-vs-pi-agent-local-ai/) - Cloud coding agent vs local alternative
