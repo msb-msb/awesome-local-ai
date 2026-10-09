@@ -393,6 +393,7 @@ Going deeper into local AI.
 - [whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Fast Whisper inference
 - [Coqui TTS](https://github.com/coqui-ai/TTS) - Text-to-speech synthesis
 - [KittenTTS](https://github.com/KittenML/KittenTTS) - CPU-friendly ONNX text-to-speech
+- [LocalSoundsAPI](https://github.com/aivrar/LocalSoundsAPI) - Offline TTS, voice cloning and music gen with web UI + local API, no install
 - [Piper](https://github.com/rhasspy/piper) - Fast local TTS
 
 ### Distributed Inference
