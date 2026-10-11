@@ -37,6 +37,7 @@ New to local AI? Start here.
 - [What is Quantization?](https://insiderllm.com/guides/llm-quantization-explained/) - Understanding Q4, Q5, Q8 and why they matter
 - [Model Formats Explained](https://insiderllm.com/guides/model-formats-explained-gguf-gptq-awq-exl2/) - GGUF vs GPTQ vs AWQ vs EXL2
 - [Building a Local AI Assistant](https://insiderllm.com/guides/building-local-ai-assistant/) - Private Jarvis with Ollama, Open WebUI, Whisper, and TTS
+- [Run Local AI](https://runlocalai.vercel.app) - Free guides for running LLMs locally: Ollama tutorials, VRAM requirements, model comparisons
 
 ## Tools
 
