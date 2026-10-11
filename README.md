@@ -295,6 +295,7 @@ Interfaces and tools for running image generation locally.
 - [IP-Adapter](https://github.com/tencent-ailab/IP-Adapter) - Style and subject transfer
 - [AnimateDiff](https://github.com/guoyww/AnimateDiff) - Video generation from SD
 - [Upscayl](https://github.com/upscayl/upscayl) - AI image upscaling
+- [stageload](https://github.com/nefayran/stageload) - Loads one stage's models at a time, so multi-model image pipelines fit in a Mac's unified memory
 
 ## AI Agents
 
