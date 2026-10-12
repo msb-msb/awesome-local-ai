@@ -174,6 +174,7 @@ GUIs and web interfaces for interacting with local models.
 - [SillyTavern](https://github.com/SillyTavern/SillyTavern) - Frontend for chat/roleplay with local models
 - [LibreChat](https://github.com/danny-avila/LibreChat) - Multi-provider chat interface
 - [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) - RAG-focused interface with document upload
+- [Mentria](https://mentria.ai/tools/ai-chat/) - Runs Qwen3.5 and Bonsai 27B on your GPU in a browser tab, with no install or account
 
 ### Guides
 
