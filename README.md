@@ -274,6 +274,7 @@ Interfaces and tools for running image generation locally.
 - [Fooocus](https://github.com/lllyasviel/Fooocus) - Simplified UI, Midjourney-like experience
 - [SD.Next](https://github.com/vladmandic/sdnext) - A1111 fork with AMD/Intel support
 - [InvokeAI](https://github.com/invoke-ai/InvokeAI) - Professional-grade creative tool
+- [ImageLoom](https://github.com/elapen/imageloom) - Offline Mac image studio: create, brush-mask edit, 4K upscale, export PNG/WebP/SVG
 
 ### Guides
 
