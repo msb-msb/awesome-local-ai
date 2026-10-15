@@ -355,6 +355,8 @@ Running autonomous AI agents locally.
 
 Going deeper into local AI.
 
+- [this.me](https://neurons-me.github.io/.me/) - Declarative semantic graph kernel with encrypted audiences and embedded IVF vector search for local-first AI apps.
+
 ### Architecture & Theory
 
 - [Beyond Transformers: 5 Architectures](https://insiderllm.com/guides/beyond-transformers-5-architectures/) - What comes after Transformers
