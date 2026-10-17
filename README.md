@@ -43,6 +43,7 @@ New to local AI? Start here.
 Interactive tools for planning and optimizing your local AI setup.
 
 - [Local AI Planning Tool](https://insiderllm.com/tools/vram-calculator/) - Interactive VRAM calculator with hardware, model, and task entry points
+- [LocalForge Fit Finder](https://localai.hexmobius.com/en?utm_source=github&utm_medium=awesome_list&utm_campaign=msb_awesome_local_ai) - Hardware-to-model fit and a sourced speed reference; every published number links to its original measurement
 
 ## Hardware Guides
 
