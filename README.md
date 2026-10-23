@@ -43,6 +43,7 @@ New to local AI? Start here.
 Interactive tools for planning and optimizing your local AI setup.
 
 - [Local AI Planning Tool](https://insiderllm.com/tools/vram-calculator/) - Interactive VRAM calculator with hardware, model, and task entry points
+- [RigPerDollar My Rig](https://rigperdollar.com/my-rig/) - Check which LLMs fit your GPU, with estimates validated on 45 llama.cpp runs
 
 ## Hardware Guides
 
