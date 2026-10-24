@@ -126,6 +126,7 @@ The software that actually runs the models.
 - [MLX](https://github.com/ml-explore/mlx) - Apple's framework optimized for M-series Macs
 - [llama-cpp-python](https://github.com/abetlen/llama-cpp-python) - Python bindings for llama.cpp
 - [candle](https://github.com/huggingface/candle) - Rust ML framework with LLM support
+- [Pingala-8](https://github.com/Genrius-AI/pingala8-llm) - Patched llama.cpp (CUDA): 2-bit format with lower perplexity than IQ2_XXS at equal size on Qwen3-4B
 
 ### Guides
 
