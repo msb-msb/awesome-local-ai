@@ -63,6 +63,7 @@ Figuring out what hardware you need (or what to do with what you have).
 - [KV Cache and VRAM](https://insiderllm.com/guides/kv-cache-optimization-guide/) - Why context length eats your VRAM and how to fix it
 - [num_ctx VRAM Overflow](https://insiderllm.com/guides/num-ctx-vram-overflow-slow-inference/) - The silent performance killer nobody warns about
 - [GPU Benchmarks for LLM Inference](https://github.com/XiongjieDai/GPU-Benchmarks-on-LLM-Inference) - Community benchmark database
+- [RigBase](https://getrigbase.com/) - Measured tok/s on 117 home rigs per GPU and VRAM size, each linked to its source
 
 ### Buying Guides
 
