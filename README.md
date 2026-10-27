@@ -394,6 +394,7 @@ Going deeper into local AI.
 - [Coqui TTS](https://github.com/coqui-ai/TTS) - Text-to-speech synthesis
 - [KittenTTS](https://github.com/KittenML/KittenTTS) - CPU-friendly ONNX text-to-speech
 - [Piper](https://github.com/rhasspy/piper) - Fast local TTS
+- [Desert Ant Voz](https://desertant.com/models/voz/) - On-device speech to text with word timestamps on iPhone, Android and the web
 
 ### Distributed Inference
 
