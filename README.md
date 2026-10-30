@@ -120,6 +120,7 @@ Figuring out what hardware you need (or what to do with what you have).
 The software that actually runs the models.
 
 - [llama.cpp](https://github.com/ggerganov/llama.cpp) - The foundational CPU/GPU inference engine, supports GGUF
+- [gglib](https://github.com/mmogr/gglib) - Makes llama.cpp behave like an API provider: every GGUF you own, one endpoint, any device
 - [Ollama](https://github.com/ollama/ollama) - User-friendly wrapper around llama.cpp with model management
 - [vLLM](https://github.com/vllm-project/vllm) - High-throughput serving for production deployments
 - [ExLlamaV2](https://github.com/turboderp/exllamav2) - Fastest single-user NVIDIA inference, EXL2 format
