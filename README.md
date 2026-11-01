@@ -272,6 +272,9 @@ Interfaces and tools for running image generation locally.
 - [AUTOMATIC1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Classic web UI, huge extension ecosystem
 - [Forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) - A1111 fork with better performance
 - [Fooocus](https://github.com/lllyasviel/Fooocus) - Simplified UI, Midjourney-like experience
+- [PromptImage](https://promptimage.cloud) - Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
+- [TeslaWraps](https://teslawraps.design) - Browser Tesla Paint Shop wrap designer — core editing + PNG export free without account; optional AI credit…
+- [GrokVideo Studio](https://grokvideogenerator.dev) - Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official …
 - [SD.Next](https://github.com/vladmandic/sdnext) - A1111 fork with AMD/Intel support
 - [InvokeAI](https://github.com/invoke-ai/InvokeAI) - Professional-grade creative tool
 
