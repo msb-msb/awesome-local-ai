@@ -393,6 +393,7 @@ Going deeper into local AI.
 - [whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Fast Whisper inference
 - [Coqui TTS](https://github.com/coqui-ai/TTS) - Text-to-speech synthesis
 - [KittenTTS](https://github.com/KittenML/KittenTTS) - CPU-friendly ONNX text-to-speech
+- [Murmur](https://www.murmurtts.com) - Offline Mac and Windows app that runs Kokoro, Qwen3-TTS and other open TTS models locally, with voice cloning and batch export
 - [Piper](https://github.com/rhasspy/piper) - Fast local TTS
 
 ### Distributed Inference
