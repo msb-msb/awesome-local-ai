@@ -123,6 +123,7 @@ The software that actually runs the models.
 - [Ollama](https://github.com/ollama/ollama) - User-friendly wrapper around llama.cpp with model management
 - [vLLM](https://github.com/vllm-project/vllm) - High-throughput serving for production deployments
 - [ExLlamaV2](https://github.com/turboderp/exllamav2) - Fastest single-user NVIDIA inference, EXL2 format
+- [Kapitsa](https://github.com/nace-ai/kapitsa) - Runs LLMs natively on Apple silicon (Metal, Neural Engine) behind OpenAI/Anthropic-compatible APIs
 - [MLX](https://github.com/ml-explore/mlx) - Apple's framework optimized for M-series Macs
 - [llama-cpp-python](https://github.com/abetlen/llama-cpp-python) - Python bindings for llama.cpp
 - [candle](https://github.com/huggingface/candle) - Rust ML framework with LLM support
