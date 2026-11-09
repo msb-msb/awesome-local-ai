@@ -160,6 +160,7 @@ GUIs and web interfaces for interacting with local models.
 - [LM Studio](https://lmstudio.ai/) - Polished desktop app with built-in model browser
 - [GPT4All](https://gpt4all.io/) - Simple desktop app, good for beginners
 - [Jan](https://jan.ai/) - Open-source ChatGPT alternative with local models
+- [Lampo](https://github.com/christianmusumeci00/Lampo) - Use Apple's on-device model on any selected text, window or dictation, offline, free, no account
 - [Msty](https://msty.app/) - Mac-native LLM interface
 - [Off Grid AI Desktop](https://getoffgridai.co/desktop) - Open-source macOS app for fully-offline local AI: LLM chat, image generation, dictation, and personal memory/RAG
 - [Typer](https://typer.space) - Free on-device AI chat for macOS (Apple Silicon); no account, no cloud, works offline
