@@ -274,6 +274,7 @@ Interfaces and tools for running image generation locally.
 - [Fooocus](https://github.com/lllyasviel/Fooocus) - Simplified UI, Midjourney-like experience
 - [SD.Next](https://github.com/vladmandic/sdnext) - A1111 fork with AMD/Intel support
 - [InvokeAI](https://github.com/invoke-ai/InvokeAI) - Professional-grade creative tool
+- [Prisme](https://github.com/d3Ita/prisme) - One-file app for local image generation and editing (stable-diffusion.cpp), with an MCP server
 
 ### Guides
 
