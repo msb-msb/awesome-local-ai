@@ -374,6 +374,7 @@ Going deeper into local AI.
 - [Qdrant](https://github.com/qdrant/qdrant) - Vector similarity search engine
 - [FAISS](https://github.com/facebookresearch/faiss) - Facebook's similarity search library
 - [ternlight](https://github.com/soycaporal/ternlight) - On-device sentence embeddings for semantic search/RAG; ternary 1.58-bit, ~5-7 MB, runs in-browser via WASM
+- [Sugo](https://github.com/Muralnick/sugo) - Offline PDF, screenshot and Office to Markdown with OCR: clean, compact input for local RAG
 
 ### Fine-Tuning & Training
 
