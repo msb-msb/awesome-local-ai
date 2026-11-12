@@ -292,6 +292,7 @@ Interfaces and tools for running image generation locally.
 ### Extensions & Tools
 
 - [ControlNet](https://github.com/lllyasviel/ControlNet) - Precise image control
+- [h3metal](https://github.com/audenvenn/h3metal) - Runs the 33B MiniMax-H3-Image (text-to-image, editing) on a 24 GB M5/M6 Mac
 - [IP-Adapter](https://github.com/tencent-ailab/IP-Adapter) - Style and subject transfer
 - [AnimateDiff](https://github.com/guoyww/AnimateDiff) - Video generation from SD
 - [Upscayl](https://github.com/upscayl/upscayl) - AI image upscaling
