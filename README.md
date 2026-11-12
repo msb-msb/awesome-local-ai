@@ -43,6 +43,7 @@ New to local AI? Start here.
 Interactive tools for planning and optimizing your local AI setup.
 
 - [Local AI Planning Tool](https://insiderllm.com/tools/vram-calculator/) - Interactive VRAM calculator with hardware, model, and task entry points
+- [RigMatch](https://github.com/DaveEuson/RigMatch) - Benchmarks Ollama and LM Studio models on your own hardware to find the best one it can run
 
 ## Hardware Guides
 
