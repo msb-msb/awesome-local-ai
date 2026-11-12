@@ -158,6 +158,7 @@ GUIs and web interfaces for interacting with local models.
 ### Desktop Applications
 
 - [LM Studio](https://lmstudio.ai/) - Polished desktop app with built-in model browser
+- [GHost PCP](https://github.com/realkellyspear/GHost-PCP) - Local GGUF chat grounded in your ChatGPT export archive with offline RAG, Piper TTS, and phone UI
 - [GPT4All](https://gpt4all.io/) - Simple desktop app, good for beginners
 - [Jan](https://jan.ai/) - Open-source ChatGPT alternative with local models
 - [Msty](https://msty.app/) - Mac-native LLM interface
