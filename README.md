@@ -292,6 +292,7 @@ Interfaces and tools for running image generation locally.
 ### Extensions & Tools
 
 - [ControlNet](https://github.com/lllyasviel/ControlNet) - Precise image control
+- [h3metal](https://github.com/audenvenn/h3metal) - FLUX.2 [klein], Z-Image-Turbo and MiniMax-H3-Image (text-to-image, editing, LoRA) on M5/M6 Macs with a native Metal engine for the GPU matrix units; FLUX.2 [klein] 4B at 1024x1024 in ~7 s
 - [IP-Adapter](https://github.com/tencent-ailab/IP-Adapter) - Style and subject transfer
 - [AnimateDiff](https://github.com/guoyww/AnimateDiff) - Video generation from SD
 - [Upscayl](https://github.com/upscayl/upscayl) - AI image upscaling
