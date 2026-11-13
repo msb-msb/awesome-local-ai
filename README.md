@@ -43,6 +43,7 @@ New to local AI? Start here.
 Interactive tools for planning and optimizing your local AI setup.
 
 - [Local AI Planning Tool](https://insiderllm.com/tools/vram-calculator/) - Interactive VRAM calculator with hardware, model, and task entry points
+- [GPU Memory Calculator](https://www.systemdesign.academy/tools/gpu-memory-calculator) - Shows whether a model fits on a given GPU and how many concurrent users it can serve, with the weights, KV cache and working-space formulas written out from each model's Hugging Face config
 
 ## Hardware Guides
 
