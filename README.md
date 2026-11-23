@@ -312,6 +312,7 @@ Running autonomous AI agents locally.
 - [SmarterRouter](https://insiderllm.com/guides/smarterrouter-vram-aware-llm-gateway-local-ai/) - VRAM-aware LLM gateway for local AI
 - [Hivekeep](https://github.com/MarlBurroW/hivekeep) - Self-hosted team of specialized AI agents with persistent memory and a web UI; works with local models via Ollama
 - [CorvinOS](https://github.com/CorvinLabs/CorvinOS) - Self-hosted agentic OS connecting local Ollama models to Discord, Telegram, WhatsApp, Slack, and Email
+- [EXTREMELY Autonomous Agents](https://github.com/maxkxd/extremely-autonomous-agents) - Free, open-source desktop app that runs autonomous agents on your own Mac, Windows or Linux computer, with local models through Ollama or cloud keys you bring.
 
 ### OpenClaw Guides
 
