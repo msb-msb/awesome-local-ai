@@ -394,6 +394,7 @@ Going deeper into local AI.
 - [Coqui TTS](https://github.com/coqui-ai/TTS) - Text-to-speech synthesis
 - [KittenTTS](https://github.com/KittenML/KittenTTS) - CPU-friendly ONNX text-to-speech
 - [Piper](https://github.com/rhasspy/piper) - Fast local TTS
+- [AudioGhost](https://github.com/0x0funky/audioghost-ai) - Take music, voices or noise out of any recording by naming them, offline on a 6 GB GPU
 
 ### Distributed Inference
 
