@@ -43,6 +43,7 @@ New to local AI? Start here.
 Interactive tools for planning and optimizing your local AI setup.
 
 - [Local AI Planning Tool](https://insiderllm.com/tools/vram-calculator/) - Interactive VRAM calculator with hardware, model, and task entry points
+- [Marea](https://github.com/indecenti/marea) - Frees model disk space without deleting files; model inventory and pickle check (Windows)
 
 ## Hardware Guides
 
